@@ -1,0 +1,22 @@
+alanine, A, GCU, GCC, GCA, GCG
+arginine, R, CGU, CGC, CGA, CGG, AGA, AGG
+asparagine, N, AAU, AAC
+aspartic acid, D, GAU, GAC
+cysteine, C, UGU, UGC
+glutamic acid, E, GAA, GAG
+glutamine, Q, CAA, CAG
+glycine, G, GGU, GGC, GGA, GGG
+histidine, H, CAU, CAC
+isoleucine, I, AUU, AUC, AUA
+leucine, L, UUA, UUG, CUU, CUC, CUA, CUG
+lysine, K, AAA, AAG
+methionine, M, AUG
+phenylalanine, F, UUU, UUC, 
+proline, P, CCU, CCC, CCA, CCG
+serine, S, UCU, UCC, UCA, UCG, AGU, AGC
+threonine, T, ACU, ACC, ACA, ACG
+tryptophan, W, UGG
+tyrosine, Y, UAU, UAC
+valine, V, GUU, GUC, GUA, GUG
+START, AUG
+STOP, UAG, UGA, UAA
